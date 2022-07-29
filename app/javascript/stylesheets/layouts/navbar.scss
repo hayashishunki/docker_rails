@@ -9,7 +9,11 @@
     }
     &__mainLogo {
       background-repeat: no-repeat;
+<<<<<<< HEAD:app/javascript/stylesheets/layouts/navbar.scss
       background-image: url("logo.png");
+=======
+      background-image: url("../techpitgram-images/logo.png");
+>>>>>>> 8da8ebe5abc25408ccff10cde6005cf24705a2a1:app/javascript/stylesheets/navbar.scss
     }
     &-nav {
       & > li {
@@ -24,7 +28,11 @@
           background-repeat: no-repeat;
         }
         .profile-icon {
+<<<<<<< HEAD:app/javascript/stylesheets/layouts/navbar.scss
           background-image: url("/app/javascript/techpitgram-images/parts3.png");
+=======
+          background-image: url("../techpitgram-images/parts3.png");
+>>>>>>> 8da8ebe5abc25408ccff10cde6005cf24705a2a1:app/javascript/stylesheets/navbar.scss
         }
       }
     }
