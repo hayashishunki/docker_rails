@@ -6,7 +6,6 @@ class HomeController < ApplicationController
       {:label => "Books", :path => books_path},
       {:label => "Help", :path => help_path}
     ]
-    @link = ["users", "books", "help"]
   end
 
   def help
